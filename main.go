@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 fmt.Println("Hello,, in contoh kolaborasi..")
-fmt.Println("Muh.Firdaus")
+ fmt.Println("Muh.Firdaus")
 }
